@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# dotenv environment files
+.env
+.env.*
+
+# Streamlit logs and cache
+.streamlit/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# pycache in subfolders
+**/__pycache__/
+
+# VSCode and IDE config
+.vscode/
+.idea/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Others
+*.bak
+*.swp
