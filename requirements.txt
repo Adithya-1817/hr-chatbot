@@ -1,6 +1,5 @@
-streamlit==1.35.0
-faiss-cpu==1.7.4
-requests==2.32.3
-PyMuPDF==1.23.24
+streamlit
+requests
+python-dotenv
+PyMuPDF==1.21.1
 sentence-transformers==2.2.2
-python-dotenv==1.0.1
